@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\ElevatorControlSystem\ElevatorControl\bin\Debug\ElevatorControl.exe.config
+C:\Users\user\Desktop\ElevatorControlSystem\ElevatorControl\bin\Debug\ElevatorControl.exe
+C:\Users\user\Desktop\ElevatorControlSystem\ElevatorControl\bin\Debug\ElevatorControl.pdb
+C:\Users\user\Desktop\ElevatorControlSystem\ElevatorControl\obj\Debug\ElevatorControlSystem.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ElevatorControlSystem\ElevatorControl\obj\Debug\ElevatorControl.Form1.resources
+C:\Users\user\Desktop\ElevatorControlSystem\ElevatorControl\obj\Debug\ElevatorControl.Properties.Resources.resources
+C:\Users\user\Desktop\ElevatorControlSystem\ElevatorControl\obj\Debug\ElevatorControlSystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ElevatorControlSystem\ElevatorControl\obj\Debug\ElevatorControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ElevatorControlSystem\ElevatorControl\obj\Debug\ElevatorControl.exe
+C:\Users\user\Desktop\ElevatorControlSystem\ElevatorControl\obj\Debug\ElevatorControl.pdb
+C:\Users\user\Desktop\Resources recycle\1916361AssignmentOne\ElevatorControlSystem\ElevatorControl\bin\Debug\ElevatorControl.exe.config
+C:\Users\user\Desktop\Resources recycle\1916361AssignmentOne\ElevatorControlSystem\ElevatorControl\bin\Debug\ElevatorControl.exe
+C:\Users\user\Desktop\Resources recycle\1916361AssignmentOne\ElevatorControlSystem\ElevatorControl\bin\Debug\ElevatorControl.pdb
+C:\Users\user\Desktop\Resources recycle\1916361AssignmentOne\ElevatorControlSystem\ElevatorControl\obj\Debug\ElevatorControlSystem.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Resources recycle\1916361AssignmentOne\ElevatorControlSystem\ElevatorControl\obj\Debug\ElevatorControl.Form1.resources
+C:\Users\user\Desktop\Resources recycle\1916361AssignmentOne\ElevatorControlSystem\ElevatorControl\obj\Debug\ElevatorControl.Properties.Resources.resources
+C:\Users\user\Desktop\Resources recycle\1916361AssignmentOne\ElevatorControlSystem\ElevatorControl\obj\Debug\ElevatorControlSystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Resources recycle\1916361AssignmentOne\ElevatorControlSystem\ElevatorControl\obj\Debug\ElevatorControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Resources recycle\1916361AssignmentOne\ElevatorControlSystem\ElevatorControl\obj\Debug\ElevatorControl.exe
+C:\Users\user\Desktop\Resources recycle\1916361AssignmentOne\ElevatorControlSystem\ElevatorControl\obj\Debug\ElevatorControl.pdb

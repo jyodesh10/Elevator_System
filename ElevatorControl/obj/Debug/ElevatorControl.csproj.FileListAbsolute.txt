@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.exe.config
+C:\Users\user\Desktop\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.exe
+C:\Users\user\Desktop\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.pdb
+C:\Users\user\Desktop\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.Form1.resources
+C:\Users\user\Desktop\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.Properties.Resources.resources
+C:\Users\user\Desktop\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.exe
+C:\Users\user\Desktop\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.pdb
+C:\Users\user\Desktop\Resources recycle\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.exe.config
+C:\Users\user\Desktop\Resources recycle\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.exe
+C:\Users\user\Desktop\Resources recycle\ElevatorControl\ElevatorControl\bin\Debug\ElevatorControl.pdb
+C:\Users\user\Desktop\Resources recycle\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Resources recycle\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.Form1.resources
+C:\Users\user\Desktop\Resources recycle\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.Properties.Resources.resources
+C:\Users\user\Desktop\Resources recycle\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Resources recycle\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Resources recycle\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.exe
+C:\Users\user\Desktop\Resources recycle\ElevatorControl\ElevatorControl\obj\Debug\ElevatorControl.pdb
